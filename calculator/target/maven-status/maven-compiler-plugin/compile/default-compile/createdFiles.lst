@@ -1,0 +1,5 @@
+server\service\CaculatorService.class
+server\model\Operation.class
+server\CalculatorApplication.class
+server\config\ServerConfiguration.class
+server\consumer\Consumer.class

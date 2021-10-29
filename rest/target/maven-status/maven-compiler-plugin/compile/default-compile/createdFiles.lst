@@ -1,0 +1,8 @@
+client\model\Operation.class
+client\service\SenderClientService.class
+client\RestApplication.class
+client\model\ResultBuilder.class
+client\service\SenderClientService$1.class
+client\model\ApiResponse.class
+client\config\ClientConfiguration.class
+client\rest\CalculatorRestController.class
